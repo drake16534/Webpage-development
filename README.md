@@ -1,2 +1,2 @@
 # Webpage-development
-Webpage development using HTML &amp;CSS 
+Webpage development using HTML And CSS 
